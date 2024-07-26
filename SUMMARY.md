@@ -2,7 +2,7 @@
 
 ## 👇 預覽
 
-* [歡迎來到ZKRush](README.md)
+* [歡迎來到ZKRush,](README.md)
 
 ## 📜 挖礦教程
 
